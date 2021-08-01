@@ -1,0 +1,6 @@
+A new change
+: This is a text file for Github setting.
+The new modification is listed below:
+
+haha, I'm using Github
+
